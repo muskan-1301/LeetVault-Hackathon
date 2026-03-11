@@ -1,0 +1,45 @@
+{
+  "name": "leetvault",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@codemirror/lang-javascript": "^6.2.2",
+    "@copilotkit/react-core": "^1.8.9",
+    "@copilotkit/react-ui": "^1.8.9",
+    "@uiw/codemirror-theme-vscode": "^4.23.7",
+    "@uiw/react-codemirror": "^4.23.7",
+    "ethers": "^6.13.7",
+    "firebase": "^11.2.0",
+    "framer-motion": "^12.0.5",
+    "lucide-react": "^0.503.0",
+    "next": "^15.1.6",
+    "react": "18.2.0",
+    "react-confetti": "^6.2.2",
+    "react-dom": "18.2.0",
+    "react-firebase-hooks": "^5.1.1",
+    "react-icons": "^5.4.0",
+    "react-modal": "^3.16.3",
+    "react-split": "^2.0.14",
+    "react-toastify": "^11.0.3",
+    "react-youtube": "^10.1.0",
+    "recoil": "^0.7.7"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "@types/react-youtube": "^7.6.2",
+    "eslint": "^9",
+    "eslint-config-next": "15.1.6",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5"
+  }
+}
